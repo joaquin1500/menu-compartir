@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">menuwidget2</string>
+    <string name="menu_usuario">Perfil de usuario</string>
+    <string name="menu_compartir">Compartir</string>
+</resources>
